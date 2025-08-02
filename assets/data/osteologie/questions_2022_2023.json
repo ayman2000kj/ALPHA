@@ -1,0 +1,118 @@
+{
+  "exam_info": {
+    "title": "Ostéologie - Examen 2022-2023",
+    "year": "2022-2023"
+  },
+  "questions": [
+    {
+      "id": "osteo_q1",
+      "question": "1. Concernant l'ostéologie, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "La croissance en épaisseur des os longs est assurée par les métaphyses.", "isCorrect": false},
+        {"text": "La crête est une saillie osseuse articulaire.", "isCorrect": false},
+        {"text": "Les os courts ne possèdent pas d'artères périostées.", "isCorrect": true},
+        {"text": "Les os sésamoïdes se situent au contact des articulations.", "isCorrect": true},
+        {"text": "Le foramen est une dépression osseuse.", "isCorrect": false}
+      ]
+    },
+    {
+      "id": "osteo_q2",
+      "question": "2. Concernant la clavicule, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "C'est l'os antérieur de la ceinture scapulaire.", "isCorrect": true},
+        {"text": "Son ossification commence le 20° jour in utéro.", "isCorrect": false},
+        {"text": "Sa face supérieure présente le tubercule conoïde et la ligne trapézoïde.", "isCorrect": false},
+        {"text": "Son bord ventral présente une convexité au 2/3 médiaux.", "isCorrect": true},
+        {"text": "Le foramen nourricier s'ouvre à sa face inférieure.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "osteo_q3",
+      "question": "3. Concernant la scapula, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Elle est plaquée au regard des 10 premières côtes.", "isCorrect": false},
+        {"text": "Sa face antérieure est aplatie.", "isCorrect": false},
+        {"text": "L'incisure scapulaire est située sur son bord spinal.", "isCorrect": false},
+        {"text": "Le tubercule intra-génoïdal donne insertion au tendon du chef long du triceps.", "isCorrect": true},
+        {"text": "Le muscle grand droit se fixe sur son angle inférieur.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "osteo_q4",
+      "question": "4. Concernant l'humérus, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Présente trois faces : antérieure, postéro-latérale et postéro-médiale.", "isCorrect": false},
+        {"text": "Le sillon radial est oblique en bas et latéralement.", "isCorrect": true},
+        {"text": "Son bord antérieur poursuit en bas la lèvre médiale du sillon inter-tuberculaire.", "isCorrect": false},
+        {"text": "Son col chirurgical est en rapport avec le nerf circonflexe.", "isCorrect": true},
+        {"text": "La tête humérale représente les 2/3 d'une sphère de 30 mm de rayon.", "isCorrect": false}
+      ]
+    },
+    {
+      "id": "osteo_q5",
+      "question": "5. La fracture de l'épicondyle médial de l'humérus peut entraîner une lésion du nerf :",
+      "options": [
+        {"text": "Radial.", "isCorrect": false},
+        {"text": "Circonflexe.", "isCorrect": false},
+        {"text": "Uinaire.", "isCorrect": true},
+        {"text": "Médian.", "isCorrect": false},
+        {"text": "Musculo-cutané.", "isCorrect": false}
+      ]
+    },
+    {
+      "id": "osteo_q6",
+      "question": "6. Concernant les insertions musculaires sur l'humérus, cocher le ou les propositions justes :",
+      "options": [
+        {"text": "Le muscle infra-épineux sur la facette moyenne du tubercule majeur.", "isCorrect": true},
+        {"text": "Le muscle grand rond sur la crête du tubercule majeur.", "isCorrect": false},
+        {"text": "Le muscle grand dorsal sur le fond du sillon inter-tuberculaire.", "isCorrect": true},
+        {"text": "Le fléchisseur radial du carpe sur l'épicondyle latéral.", "isCorrect": false},
+        {"text": "Le fléchisseur ulnaire du carpe sur l'épicondyle médial.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "osteo_q7",
+      "question": "7. Concernant le radius, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "S'articule en haut avec le capitulum uniquement.", "isCorrect": false},
+        {"text": "Sa diaphyse est concave latéralement et vers l'avant.", "isCorrect": false},
+        {"text": "Son bord antérieur est oblique en bas et latéralement, puis devient vertical.", "isCorrect": true},
+        {"text": "La cupule radiale est le pourtour de la tête radiale.", "isCorrect": false},
+        {"text": "Son épiphyse distale se prolonge latéralement par le processus styloïde.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "osteo_q8",
+      "question": "8. Concernant l'ulna, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "L'ulna s'articule en bas avec le carpe.", "isCorrect": false},
+        {"text": "Sa face postérieure présente une crête longitudinale.", "isCorrect": true},
+        {"text": "La crête supinatrice est la branche postérieure de bifurcation supérieure du bord latéral.", "isCorrect": true},
+        {"text": "L'olécrane est la saillie horizontale de l'épiphyse proximale.", "isCorrect": false},
+        {"text": "L'incisure radiale est située sur la face latérale du processus coronoïde.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "osteo_q9",
+      "question": "9. Concernant le squelette de la main, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Le squelette de la main est formé de 27 os.", "isCorrect": true},
+        {"text": "Le massif osseux du carpe est haut de 5 cm et large de 3 cm.", "isCorrect": false},
+        {"text": "Le canal carpien est formé par le rétinaculum des fléchisseurs et la gouttière carpienne.", "isCorrect": true},
+        {"text": "Le condyle carpien représente la face inférieure du carpe.", "isCorrect": false},
+        {"text": "Le capitatum présente une saillie appelée hamulus.", "isCorrect": false}
+      ]
+    },
+    {
+      "id": "osteo_q10",
+      "question": "10. Concernant le squelette de la main, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Les phalanges sont des os courts.", "isCorrect": false},
+        {"text": "L'épiphyse distale des métacarpiens est cubique.", "isCorrect": false},
+        {"text": "Le 3ème métacarpien présente un processus styloïde.", "isCorrect": true},
+        {"text": "La phalange distale est appelée phalangine.", "isCorrect": false},
+        {"text": "L'ossification du carpe commence au niveau du capitatum et se termine au niveau du pisiforme.", "isCorrect": true}
+      ]
+    }
+  ]
+} 

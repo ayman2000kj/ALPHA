@@ -1,0 +1,63 @@
+{
+  "exam_info": {
+    "title": "Anatomie Générale - Examen 2021",
+    "date": "15/01/2023",
+    "subject": "anatomie",
+    "unit": "anatomie_generale",
+    "year": "2021"
+  },
+  "questions": [
+    {
+      "id": "anat_gen_2021_q1",
+      "question": "Anatomie fonctionnelle est :",
+      "options": [
+        {
+          "text": "L'étude analytique de la morphologie des organes.",
+          "isCorrect": false
+        },
+        {
+          "text": "L'étude de la division du corps en grandes régions.",
+          "isCorrect": false
+        },
+        {
+          "text": "L'étude d'une structure anatomique considérée en mouvement pour remplir une fonction.",
+          "isCorrect": true
+        },
+        {
+          "text": "L'étude de l'image morpho-topographique du corps humain.",
+          "isCorrect": false
+        },
+        {
+          "text": "L'anatomie appliquée à la clinique.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "anat_gen_2021_q2",
+      "question": "Concernant les généralités sur l'anatomie, cocher la ou les propositions justes :",
+      "options": [
+        {
+          "text": "Un organe correspond à un ensemble de cellules ayant la même différentiation fonctionnelle.",
+          "isCorrect": false
+        },
+        {
+          "text": "En position anatomique de référence, les avant-bras et les mains sont en supination.",
+          "isCorrect": true
+        },
+        {
+          "text": "L'axe du pied passe par le 3ᵉ orteil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Le plan coronal est le plan frontal passant par l'axe du corps.",
+          "isCorrect": true
+        },
+        {
+          "text": "Caudal est le synonyme de supérieur.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+} 

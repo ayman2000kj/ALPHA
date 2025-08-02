@@ -1,0 +1,50 @@
+name: aymologypro_new
+description: تطبيق تعليمي متقدم لطلاب الطب - Aymology Pro
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # مكتبات الخطوط والتصميم
+  google_fonts: ^6.3.0
+  
+  # مكتبات التخزين المحلي
+  shared_preferences: ^2.2.2
+  
+  # مكتبات إدارة الحالة
+  provider: ^6.1.1
+  
+  # مكتبات مساعدة
+  uuid: ^4.2.1
+  intl: ^0.20.2
+  
+  # مكتبات البومودورو
+  flutter_ringtone_player: ^4.0.0+4
+  vibration: ^1.7.6
+  
+  # مكتبات Firebase (معلقة للاستخدام المستقبلي)
+  # firebase_core: ^2.24.2
+  # firebase_auth: ^4.15.3
+  # cloud_firestore: ^4.13.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  
+  # الموارد والبيانات
+  assets:
+    - assets/
+    - assets/data/anatomie_generale/
+    - assets/data/osteologie/
+    - assets/data/arthologie/
+    - assets/data/myologie/
+    - assets/data/vascularisation/
+    - assets/data/biochimie/ 

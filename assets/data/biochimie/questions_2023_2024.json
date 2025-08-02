@@ -1,0 +1,1044 @@
+{
+  "questions": [
+    {
+      "id": "bio_2023_001",
+      "question": "Parmi les propositions suivantes, lesquelles sont exactes ?",
+      "options": [
+        {
+          "text": "A. La plupart des oses naturels appartiennent à la série D.",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Le glycéraldehyde possède une seule fonction alcool.",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Le L-ribose est un aldopentose.",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Le D-glucose et le D-galactose sont des épimères en C3.",
+          "isCorrect": false
+        },
+        {
+          "text": "E. Le glycéraldehyde et la dihydroxyacétone sont les oses les plus simples.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_002",
+      "question": "Lesquelles des affirmations suivantes relatives au glucose sont exactes ?",
+      "options": [
+        {
+          "text": "A. C'est un aldopentose.",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Il est le carburant essentiel des cellules animales.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Il possède quatre carbones asymétriques.",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Sous forme cyclique, il possède une fonction hémiacétallique libre.",
+          "isCorrect": false
+        },
+        {
+          "text": "E. À l'état libre dans les cellules, il est non phosphorylé.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_003",
+      "question": "Lesquelles des affirmations suivantes relatives au glucose sont exactes ?",
+      "options": [
+        {
+          "text": "A. Il est très soluble dans le sang.",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Il possède huit atomes d'hydrogène.",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Il existe naturellement sous la forme d'un isomère de la série D.",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Sa pénétration cellulaire est déclenchée par l'insuline.",
+          "isCorrect": true
+        },
+        {
+          "text": "E. Il ne réduit pas la liqueur de Fehling.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_004",
+      "question": "Parmi les affirmations suivantes, lesquelles sont exactes ?",
+      "options": [
+        {
+          "text": "A. Un cétohexose est composé de cinq carbones hydroxylés et d'une fonction cétone.",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Un aldohexose est composé de cinq carbones hydroxylés et d'une fonction aldéhyde.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Un aldopentose est un composé qui existe sous forme linéaire à l'état naturel.",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Un cétose est un composé qui ne peut pas se cycliser.",
+          "isCorrect": false
+        },
+        {
+          "text": "E. Un cétohexose comporte deux fonctions alcools primaires.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_005",
+      "question": "Parmi les propositions suivantes, lesquelles sont exactes ?",
+      "options": [
+        {
+          "text": "A. Si le groupe carbonyle est à l'extrémité de sa chaîne carbonée, l'ose est un cétose.",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Les aldohexoses qui contiennent 4 carbones asymétriques possèdent 16 stéréo-isomères.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Dans tous les isomères D des monosaccharides, le carbone en position n-1 a la même configuration que le carbone asymétrique du D-glycéraldéhyde.",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Les monosaccharides les plus simples sont deux trioses à trois carbones : le glycéraldéhyde et la dihydroxyacétone.",
+          "isCorrect": true
+        },
+        {
+          "text": "E. Les oses sont souvent stables sous forme cyclique dès que leurs atomes de carbone atteignent 4.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_006",
+      "question": "Parmi les définitions proposées, choisir celles qui s'appliquent à la molécule représentée ci-dessous :",
+      "options": [
+        {
+          "text": "A. Forme furanose",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Porte une fonction hémiacétalique portée par le C1",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Anomère α",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Appartient à la série L",
+          "isCorrect": false
+        },
+        {
+          "text": "E. Possède 2 fonctions alcools primaires",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_007",
+      "question": "Concernant les propriétés chimiques des oses, une proposition est fausse, laquelle ?",
+      "options": [
+        {
+          "text": "A. Le glucose en milieu alcalin à froid peut donner du mannose.",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Le glucose en milieu alcalin à froid peut donner du galactose.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Le fructose en milieu alcalin à froid peut donner du glucose et du mannose.",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Le galactose en milieu alcalin à froid peut donner du fructose.",
+          "isCorrect": true
+        },
+        {
+          "text": "E. Le galactose en milieu alcalin à froid peut donner du glucose.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_008",
+      "question": "Concernant les propriétés chimiques des oses, cocher les propositions justes.",
+      "options": [
+        {
+          "text": "A. Les oses en milieu acide et à froid subissent une déshydratation et une cyclisation.",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Les dérivés du furfural sont formés en milieu acide à chaud.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Les dérivés du furfural sont des composés colorés qui permettent le dosage des oses.",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Les dérivés du furfural forment avec les amines aromatiques des produits colorés.",
+          "isCorrect": true
+        },
+        {
+          "text": "E. En milieu acide et à chaud, l'ose subit une dégradation complète de sa structure.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_009",
+      "question": "Parmi les propositions concernant les diholosides suivants, laquelle est exacte ?",
+      "options": [
+        {
+          "text": "A. Le maltose contient deux résidus de D-galactose unis par une liaison glycosidique.",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Dans le lactose, les 2 oses sont unis par une liaison osidique en configuration β.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Dans la molécule de saccharose, les 2 oses sont unis par une liaison osidique en configuration α.",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Le lactose est un sucre non réducteur.",
+          "isCorrect": false
+        },
+        {
+          "text": "E. Le saccharose est un sucre réducteur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_010",
+      "question": "Parmi les propositions suivantes concernant les diholosides, lesquelles sont exactes ?",
+      "options": [
+        {
+          "text": "A. L'α-glucosidase hydrolyse le saccharose en une molécule de glucose et une molécule de fructose.",
+          "isCorrect": true
+        },
+        {
+          "text": "B. La nomenclature du saccharose est α-D-glucopyranosyl-(1→2)-β-D-fructofuranose.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Le lactose ne possède pas de fonction hémiacétalique libre.",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Le maltose peut être hydrolysé par une α-glucosidase.",
+          "isCorrect": true
+        },
+        {
+          "text": "E. Le maltose peut être hydrolysé par une β-galactosidase.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_011",
+      "question": "Concernant les polyosides de réserve, lesquelles sont exactes ?",
+      "options": [
+        {
+          "text": "A. L'amidon est un glucosane exclusivement linéaire.",
+          "isCorrect": false
+        },
+        {
+          "text": "B. L'amylose est un polymère linéaire hélicoïdal.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. L'amylopectine est la fraction minoritaire dans l'amidon.",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Dans l'amylopectine, les branchements (1→6) sont espacés.",
+          "isCorrect": false
+        },
+        {
+          "text": "E. Toutes les réponses sont justes.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_012",
+      "question": "Concernant le glycogène, lesquelles sont exactes ?",
+      "options": [
+        {
+          "text": "A. C'est la forme de réserve d'énergie au niveau hépatique et musculaire.",
+          "isCorrect": true
+        },
+        {
+          "text": "B. A une structure arborescente avec environ un branchement tous les 8 à 12 résidus de glucose.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Possède une extrémité non réductrice et plusieurs extrémités réductrices.",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Donne une coloration brun acajou avec l'iode.",
+          "isCorrect": true
+        },
+        {
+          "text": "E. Est conjugué avec une protéine appelée glycogénine.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_013",
+      "question": "Parmi les propositions suivantes, indiquez laquelle est exacte :",
+      "options": [
+        {
+          "text": "A. La transformation du glucose en pyruvate a lieu uniquement dans le foie et les muscles.",
+          "isCorrect": false
+        },
+        {
+          "text": "B. La glycolyse est purement aérobie.",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Le but de la glycolyse est la formation de deux pyruvates et de quatre molécules d'ATP.",
+          "isCorrect": false
+        },
+        {
+          "text": "D. La glycolyse fait intervenir de très nombreux composés phosphorylés.",
+          "isCorrect": true
+        },
+        {
+          "text": "E. La glycolyse est une série de 12 réactions anaérobies.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_014",
+      "question": "Parmi les propositions suivantes, indiquez lesquelles sont exactes :",
+      "options": [
+        {
+          "text": "A. La glycolyse se produit dans le cytoplasme des cellules.",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Seul le glucose peut alimenter la glycolyse.",
+          "isCorrect": false
+        },
+        {
+          "text": "C. La glycolyse est un processus métabolique intra-mitochondrial.",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Le glucose est phosphorylé dès son entrée dans la cellule.",
+          "isCorrect": true
+        },
+        {
+          "text": "E. L'hexokinase a une faible affinité pour le glucose comparée à la glucokinase.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_015",
+      "question": "Parmi les propositions suivantes, indiquez lesquelles sont exactes :",
+      "options": [
+        {
+          "text": "A. Les glucokinases catalysent l'étape d'engagement de la glycolyse.",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Les 5 premières étapes libèrent de l'ATP.",
+          "isCorrect": false
+        },
+        {
+          "text": "C. La phosphofructokinase-1 est l'enzyme clef de la glycolyse.",
+          "isCorrect": true
+        },
+        {
+          "text": "D. L'aldolase catalyse l'oxydation des aldoses.",
+          "isCorrect": false
+        },
+        {
+          "text": "E. L'étape qui transforme le fructose-6-phosphate en fructose-1,6-bisphosphate est irréversible.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_016",
+      "question": "Parmi les propositions suivantes concernant la régulation de la glycolyse, indiquez lesquelles sont exactes :",
+      "options": [
+        {
+          "text": "A. La principale régulation fait intervenir la quantité de glucose et les besoins énergétiques de la cellule.",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Les trois réactions irréversibles de la glycolyse sont soumises à régulation.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. La phosphofructokinase est l'enzyme la plus soumise à des régulations.",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Le citrate produit dans le cycle de Krebs est le principal contrôle de la glycolyse.",
+          "isCorrect": false
+        },
+        {
+          "text": "E. L'hexokinase n'est pas soumise à une régulation.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_017",
+      "question": "Transformation du pyruvate en phosphoénolpyruvate",
+      "options": [
+        {
+          "text": "A. Catalysée par la phosphoénolpyruvate décarboxylase.",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Cette réaction consomme du GTP.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Elle se déroule en deux étapes distinctes.",
+          "isCorrect": true
+        },
+        {
+          "text": "D. La pyruvate carboxylase est une enzyme cytoplasmique.",
+          "isCorrect": false
+        },
+        {
+          "text": "E. Le bilan correspond à la consommation de deux molécules de dioxyde de carbone.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_018",
+      "question": "Cycle de Krebs",
+      "options": [
+        {
+          "text": "A. Le cycle de Krebs a pour but la formation d'énergie pour la cellule.",
+          "isCorrect": true
+        },
+        {
+          "text": "B. L'ATP va activer le cycle.",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Le cycle de Krebs se déroule à l'intérieur des mitochondries.",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Le bilan du cycle est la production finale de 12 molécules d'ATP.",
+          "isCorrect": false
+        },
+        {
+          "text": "E. La plupart de ces molécules d'ATP sont produites directement dans le cycle.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_019",
+      "question": "Propositions exactes concernant la néoglucogenèse",
+      "options": [
+        {
+          "text": "A. Les étapes réversibles de la glycolyse sont utilisées par la néoglucogenèse.",
+          "isCorrect": true
+        },
+        {
+          "text": "B. La néoglucogenèse est localisée en totalité dans le cytosol.",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Le glycérol peut participer à la néoglucogenèse après transformation en dihydroxyacétonephosphate.",
+          "isCorrect": true
+        },
+        {
+          "text": "D. La néoglucogenèse n'est que l'inverse de la glycolyse.",
+          "isCorrect": false
+        },
+        {
+          "text": "E. Le lactate substrat de la néoglucogenèse est le produit de la glycolyse anaérobie musculaire.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_020",
+      "question": "Propositions exactes concernant la synthèse du glycogène",
+      "options": [
+        {
+          "text": "A. La glycogène synthase est l'enzyme clef de la synthèse du glycogène.",
+          "isCorrect": true
+        },
+        {
+          "text": "B. L'incorporation de glucose dans le glycogène s'accompagne de la libération d'UDP.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. La glycogène synthase permet de synthétiser le glycogène ramifié.",
+          "isCorrect": false
+        },
+        {
+          "text": "D. L'enzyme branchant correspond à une activité amylo (α 1-4, α 1-6) transglycosylase.",
+          "isCorrect": true
+        },
+        {
+          "text": "E. La glycogénine est nécessaire à la synthèse du glycogène.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_021",
+      "question": "Propositions exactes",
+      "options": [
+        {
+          "text": "A. La glycogène synthase est active sous forme phosphorylée.",
+          "isCorrect": false
+        },
+        {
+          "text": "B. L'insuline active la déphosphorylation de la glycogène synthase.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Le glucagon est hyperglycémiant avec activation de la protéine kinase A.",
+          "isCorrect": true
+        },
+        {
+          "text": "D. La déphosphorylation de la glycogène synthase est due à une protéine phosphatase 1.",
+          "isCorrect": true
+        },
+        {
+          "text": "E. L'AMP est un inhibiteur de la protéine kinase A.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_022",
+      "question": "Propositions exactes",
+      "options": [
+        {
+          "text": "A. L'enzyme glycogène synthase a comme substrat le glucose-1-phosphate.",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Dans les muscles, l'adrénaline et le glucagon ont les mêmes effets sur la glycogénolyse.",
+          "isCorrect": false
+        },
+        {
+          "text": "C. La glycogène phosphorylase musculaire peut être activée allostériquement par l'ATP.",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Le calcium active la phosphorylase kinase.",
+          "isCorrect": true
+        },
+        {
+          "text": "E. Les glycogènes phosphorylases hépatique et musculaire sont différentes.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_023",
+      "question": "Intermédiaires du cycle de Krebs",
+      "options": [
+        {
+          "text": "A. Succinate",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Malate",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Oxaloacétate",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Pyruvate",
+          "isCorrect": false
+        },
+        {
+          "text": "E. Isocitrate",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_024",
+      "question": "Caractéristiques de l'acide linoléique",
+      "options": [
+        {
+          "text": "A. Molécule à 16 atomes de carbone.",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Présente deux doubles liaisons carbone-carbone.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. La première double liaison est entre les atomes de carbone 9 et 10.",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Il s'agit du Cis Δ9,12 octadécadiénoïque.",
+          "isCorrect": true
+        },
+        {
+          "text": "E. Est un acide gras saturé.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_025",
+      "question": "Acides gras non saturés",
+      "options": [
+        {
+          "text": "A. Ce sont des molécules amphipathiques.",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Leurs doubles liaisons sont en configuration cis.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Ils contiennent une ou plusieurs doubles liaisons conjuguées.",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Ils ne possèdent aucune double liaison.",
+          "isCorrect": false
+        },
+        {
+          "text": "E. Leur point de fusion diminue en fonction du nombre de doubles liaisons.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_026",
+      "question": "Est-il vrai que les lipides…",
+      "options": [
+        {
+          "text": "A. Contiennent uniquement carbone, hydrogène et oxygène.",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Peuvent contenir des alcools autres que le glycérol.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Sont des composés hydrophiles (aisément solubles dans l'eau).",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Ont un rôle énergétique ou structural chez les êtres vivants.",
+          "isCorrect": true
+        },
+        {
+          "text": "E. Sont tous des molécules amphiphiles.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_027",
+      "question": "Les glycéride sont…",
+      "options": [
+        {
+          "text": "A. Très polaires.",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Hydrolysés par la lipase pancréatique en présence de sels biliaires.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Sont des graisses neutres.",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Sont des esters du glycérol et d'AG.",
+          "isCorrect": true
+        },
+        {
+          "text": "E. Entrent dans la structure des membranes cellulaires.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_028",
+      "question": "Les triglycérides sont…",
+      "options": [
+        {
+          "text": "A. Transportés dans le sang sous forme de lipoprotéines.",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Stockés dans le foie.",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Stockés dans les tissus adipeux.",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Sont des molécules électriquement chargées.",
+          "isCorrect": false
+        },
+        {
+          "text": "E. Constituent la fraction majoritaire des LDL et HDL.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_029",
+      "question": "Les phosphatidyl-choline…",
+      "options": [
+        {
+          "text": "A. Sont synonymes de lécithines.",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sont synonymes de céphalines.",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Contiennent de l'éthanolamine.",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sont des composés neutres.",
+          "isCorrect": false
+        },
+        {
+          "text": "E. Possèdent une fonction acide.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_030",
+      "question": "Les phosphatidyl-choline…",
+      "options": [
+        {
+          "text": "A. Sont synonymes de lécithines.",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sont synonymes de céphalines.",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Contiennent de l'éthanolamine.",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Sont des composés neutres.",
+          "isCorrect": false
+        },
+        {
+          "text": "E. Possèdent une fonction acide.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_031",
+      "question": "Glycérophospholipides (propositions exactes)",
+      "options": [
+        {
+          "text": "A. Contiennent toujours une choline.",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sont des constituants majeurs des membranes biologiques.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Peuvent contenir de l'éthanolamine.",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Peuvent contenir de la sérine.",
+          "isCorrect": true
+        },
+        {
+          "text": "E. Ont tous une charge positive.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_032",
+      "question": "Triglycérides (propositions exactes)",
+      "options": [
+        {
+          "text": "A. Sont transportés par les chylomicrons et les VLDL.",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Sont les lipides les plus abondants dans les chylomicrons et les VLDL.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Comportent des liaisons amide entre glycérol et acides gras.",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Comportent obligatoirement 3 acides gras identiques.",
+          "isCorrect": false
+        },
+        {
+          "text": "E. Sont les constituants majeurs des graisses alimentaires.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_033",
+      "question": "Sphingomyéline (propositions justes)",
+      "options": [
+        {
+          "text": "A. Est un phospholipide (contient phosphate + choline).",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Possède une tête polaire identique à la phosphatidylcholine.",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Contient de la phosphatidylsérine.",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Comporte des oses dans sa structure.",
+          "isCorrect": false
+        },
+        {
+          "text": "E. Possède un acide gras lié par une liaison amide.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_034",
+      "question": "Cholestérol (propositions justes)",
+      "options": [
+        {
+          "text": "A. Est un glycolipide.",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Est un triglycéride.",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Contient une fonction ester libre.",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Ne joue aucun rôle dans les membranes.",
+          "isCorrect": false
+        },
+        {
+          "text": "E. Est un stérol à 27 carbones.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_035",
+      "question": "Lipides contenant des oses",
+      "options": [
+        {
+          "text": "A. Les céramides contiennent un ose.",
+          "isCorrect": false
+        },
+        {
+          "text": "B. La sphingomyéline contient un ose.",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Les esters de cholestérol contiennent un ose.",
+          "isCorrect": false
+        },
+        {
+          "text": "D. La phosphatidyléthanolamine contient un ose.",
+          "isCorrect": false
+        },
+        {
+          "text": "E. Les gangliosides contiennent un ou plusieurs oses.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_036",
+      "question": "Concernant les lipoprotéines, cocher la réponse juste :",
+      "options": [
+        {
+          "text": "A. Sont des particules globulaires avec un centre hydrophile et enveloppe hydrophobe",
+          "isCorrect": false
+        },
+        {
+          "text": "B. Sont réparties en 6 classes en fonction de leurs densités",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Les HDL correspondent aux α-lipoprotéines en électrophorèse",
+          "isCorrect": true
+        },
+        {
+          "text": "D. Les chylomicrons sont riches en triglycérides d'origine endogène hépatique",
+          "isCorrect": false
+        },
+        {
+          "text": "E. Les LDL sont les lipoprotéines les plus denses (lourdes)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_037",
+      "question": "Concernant les lipoprotéines, cocher les réponses justes :",
+      "options": [
+        {
+          "text": "A. Les apolipoprotéines assurent la solubilité des lipides dans les lipoprotéines",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Les apolipoprotéines permettent la reconnaissance des lipoprotéines par les récepteurs cellulaires",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Les chylomicrons migrent en position β à l'électrophorèse",
+          "isCorrect": false
+        },
+        {
+          "text": "D. Les LDL sont les lipoprotéines protectrices non athérogènes",
+          "isCorrect": false
+        },
+        {
+          "text": "E. Les VLDL dérivent directement des chylomicrons",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_038",
+      "question": "Concernant les destinées du cholestérol, cocher les réponses justes :",
+      "options": [
+        {
+          "text": "A. La vitamine D est active sous la forme 1 α 25 dihydroxy-cholécalciférol",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Le catabolisme rénal du cholestérol aboutit à la formation des sels biliaires",
+          "isCorrect": false
+        },
+        {
+          "text": "C. Les œstrogènes et la testostérone dérivent du cholestérol",
+          "isCorrect": true
+        },
+        {
+          "text": "D. La 25-hydroxylase est une enzyme rénale",
+          "isCorrect": false
+        },
+        {
+          "text": "E. La 1 α hydroxylase intervient dans l'inactivation de la vitamine D",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_039",
+      "question": "Concernant la β-oxydation, cocher les réponses justes :",
+      "options": [
+        {
+          "text": "A. Les acides gras sont activés en acyl-CoA dans le cytosol",
+          "isCorrect": true
+        },
+        {
+          "text": "B. Cette activation consomme 2 liaisons riches en énergie",
+          "isCorrect": true
+        },
+        {
+          "text": "C. Les enzymes de la β-oxydation ne sont pas régulées",
+          "isCorrect": false
+        },
+        {
+          "text": "D. La β-oxydation est une suite de 4 réactions enzymatiques",
+          "isCorrect": true
+        },
+        {
+          "text": "E. Le rendement énergétique est identique à celui de la glycolyse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "bio_2023_040",
+      "question": "Dans la β-oxydation :",
+      "options": [
+        {
+          "text": "A. La première réaction d'oxydation produit des NADH₂",
+          "isCorrect": true
+        },
+        {
+          "text": "B. La thiolyse coupe entre les carbones α et β",
+          "isCorrect": false
+        },
+        {
+          "text": "C. L'oxydation complète d'une molécule de palmitate génère 38 ATP",
+          "isCorrect": false
+        },
+        {
+          "text": "D. L'oxydation d'AG insaturés implique l'action d'isomérase",
+          "isCorrect": true
+        },
+        {
+          "text": "E. Est composée de quatre réactions",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+} 

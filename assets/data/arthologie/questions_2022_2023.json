@@ -1,0 +1,117 @@
+{
+  "exam_info": {
+    "title": "Arthologie - Examen 2022-2023",
+    "year": "2022-2023"
+  },
+  "questions": [
+    {
+      "id": "artho_q1",
+      "question": "1. Concernant l'arthropologie, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Les articulations dérivent du mésenchyme indifférencié.", "isCorrect": true},
+        {"text": "Dans les syndesmoses le tissu fibreux s'ossifie avec l'âge.", "isCorrect": false},
+        {"text": "Les métaphyses sont des synchrondroses.", "isCorrect": true},
+        {"text": "Les diarrhorses sont des articulations immobiles.", "isCorrect": false},
+        {"text": "Le mérisque présente 3 faces libres.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "artho_q2",
+      "question": "2. L'articulation de type trochoïde présente :",
+      "options": [
+        {"text": "Des surfaces articulaires en segments d'ellipsoïde.", "isCorrect": false},
+        {"text": "Des surfaces articulaires en segments de cylindre.", "isCorrect": true},
+        {"text": "Un seul axe et un seul plan de mouvement.", "isCorrect": true},
+        {"text": "Deux axes et deux plans de mouvement.", "isCorrect": false},
+        {"text": "Trois axes et trois plans de mouvements.", "isCorrect": false}
+      ]
+    },
+    {
+      "id": "artho_q3",
+      "question": "3. Concernant le complexe articulaire de l'épaule, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Le complexe articulaire de l'épaule comporte deux articulations.", "isCorrect": false},
+        {"text": "Le seul point fixe entre le thorax et le membre supérieur est l'articulation sterno-costo-claviculaire.", "isCorrect": true},
+        {"text": "L'articulation acromio-claviculaire présente dans 30% des cas un labrum.", "isCorrect": false},
+        {"text": "L'articulation scapulo-thoracique est de type syssarcose.", "isCorrect": false},
+        {"text": "L'articulation scapulo-humérale est l'articulation la plus mobile et la plus stable du corps.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "artho_q4",
+      "question": "4. Concernant l'articulation gléno-humérale, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "L'angle d'inclinaison de la tête humérale est de 150°.", "isCorrect": false},
+        {"text": "Le ligament coraco-huméral s'insère à son origine sur le bord latéral du processus coracoïde.", "isCorrect": true},
+        {"text": "Le ligament gléno-huméral supérieur se termine au-dessus du tubercule mineur.", "isCorrect": false},
+        {"text": "L'orifice sous-coracoïdien est situé entre le ligament gléno-huméral moyen et inférieur.", "isCorrect": false},
+        {"text": "Le tendon du biceps est un ligament actif.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "artho_q5",
+      "question": "5. Le mouvement adduction-abduction de l'articulation gléno-humérale :",
+      "options": [
+        {"text": "Se fait dans le plan transversal et autour de l'axe vertical.", "isCorrect": false},
+        {"text": "Se fait dans le plan frontal et autour de l'axe sagittal.", "isCorrect": true},
+        {"text": "Se fait dans le plan sagittal et autour de l'axe transversal.", "isCorrect": false},
+        {"text": "L'amplitude de l'adduction est de 180° sans participation de l'articulation scapulo-thoracique.", "isCorrect": false},
+        {"text": "L'amplitude de l'adduction est de 40°.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "artho_q6",
+      "question": "6. Concernant l'articulation du coude, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Le versant médial de la trochlée humérale est plus long plus large et plus bas que le versant latéral.", "isCorrect": true},
+        {"text": "L'articulation radio-ulnaire proximale est une énarthrose.", "isCorrect": false},
+        {"text": "La capsule se fixe au-dessous des fosses coronoidienne, radiale et olécranienne.", "isCorrect": false},
+        {"text": "Le ligament antérieur se termine sur la face antérieure du ligament annulaire.", "isCorrect": true},
+        {"text": "Le ligament collatéral radial se termine sur la face latérale du radius.", "isCorrect": false}
+      ]
+    },
+    {
+      "id": "artho_q7",
+      "question": "7. Concernant l'articulation du coude, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Le valgus physiologique du coude est de 100° à 120°.", "isCorrect": false},
+        {"text": "L'axe des mouvements est oblique en bas et latéralement.", "isCorrect": false},
+        {"text": "La flexion passive est de 160°.", "isCorrect": true},
+        {"text": "L'extension est impossible en raison de la butée de l'olécrane dans la fosse olécranienne.", "isCorrect": true},
+        {"text": "Le mouvement prono-supination siège dans les articulations radio-ulnaires.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "artho_q8",
+      "question": "8. Concernant l'articulation du poignet, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Le disque articulaire radio-ulnaire se termine sur la styloïde ulnaire.", "isCorrect": true},
+        {"text": "Le pisiforme fait partie du condyle carpien.", "isCorrect": false},
+        {"text": "Le ligament collatéral ulnaire du carpe se termine sur le pisiforme et le triquétrum.", "isCorrect": true},
+        {"text": "Le condyle proximal de l'articulation médio-carpienne est formé par la face inférieure du lunatum.", "isCorrect": false},
+        {"text": "Le ligament radié du carpe prend son origine sur le tubercule du scaphoïde.", "isCorrect": false}
+      ]
+    },
+    {
+      "id": "artho_q9",
+      "question": "9. Concernant l'articulation du poignet, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Son interligne articulaire est en forme de 'S'.", "isCorrect": true},
+        {"text": "C'est une articulation à trois axes de mouvement.", "isCorrect": false},
+        {"text": "Présente un mouvement de rotation médiale et latérale.", "isCorrect": false},
+        {"text": "L'extension du poignet est de 85° dont 35° pour la médio-carpienne.", "isCorrect": false}
+      ]
+    },
+    {
+      "id": "artho_q10",
+      "question": "10. Concernant les articulations de la main, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Les articulations carpo-métacarpiennes ont une capsule commune.", "isCorrect": false},
+        {"text": "L'articulation carpo-métacarpienne du pouce est de type en selle.", "isCorrect": true},
+        {"text": "L'articulation carpo-métacarpienne du médius est de type trochoïde.", "isCorrect": false},
+        {"text": "Les articulations métacarpo-phalangiennes permettent des mouvements d'abduction-adduction.", "isCorrect": true},
+        {"text": "Les articulations inter-phalangiennes sont de type énarthrose.", "isCorrect": false}
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,173 @@
+{
+  "exam_info": {
+    "title": "Vascularisation - Examen 2022-2023",
+    "year": "2022-2023"
+  },
+  "questions": [
+    {
+      "id": "vas_q1",
+      "question": "1. Concernant les généralités sur l'angiologie, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Les premières contractions du cœur apparaissent dès le 23ème jour du développement.", "isCorrect": true},
+        {"text": "Les veines sont les vaisseaux efférents du cœur.", "isCorrect": false},
+        {"text": "Les artères sont munies de valvules anti-reflux.", "isCorrect": false},
+        {"text": "Dans la petite circulation les artères véhiculent un sang riche en CO2.", "isCorrect": true},
+        {"text": "Dans la grande circulation le retour veineux est assuré par les veines caves supérieure et inférieure.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "vas_q2",
+      "question": "2. Concernant l'artère axillaire, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Elle naît de la crosse de l'aorte.", "isCorrect": false},
+        {"text": "Elle se termine au bord inférieur du muscle petit pectoral.", "isCorrect": false},
+        {"text": "Elle est en contact avec la paroi antérieure de la fosse axillaire.", "isCorrect": true},
+        {"text": "La veine axillaire est sur son flanc latéral.", "isCorrect": false},
+        {"text": "Elle se continue par l'artère brachiale.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "vas_q3",
+      "question": "3. Les branches collatérales de l'artère axillaire sont :",
+      "options": [
+        {"text": "Artère thoracique suprême.", "isCorrect": true},
+        {"text": "Artère thoraco-acromiale.", "isCorrect": true},
+        {"text": "Artère thoracique médiale.", "isCorrect": false},
+        {"text": "Artère brachiale.", "isCorrect": false},
+        {"text": "Artère circonflexe humérale postérieure.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "vas_q4",
+      "question": "4. Concernant l'artère brachiale, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Le canal brachial de Cruveilhier est limité en dedans par le fascia brachial.", "isCorrect": true},
+        {"text": "Le nerf médian croise l'artère en X allongé en passant en arrière d'elle.", "isCorrect": false},
+        {"text": "Au niveau du pli du coude, l'artère brachiale chemine dans le sillon bicipital médial.", "isCorrect": true},
+        {"text": "Le sillon bicipital médial est limité en arrière par le biceps.", "isCorrect": false},
+        {"text": "Elle se termine par 3 branches.", "isCorrect": false}
+      ]
+    },
+    {
+      "id": "vas_q5",
+      "question": "5. L'artère brachiale donne les branches collatérales suivantes :",
+      "options": [
+        {"text": "L'artère circonflexe humérale antérieure.", "isCorrect": false},
+        {"text": "L'artère thoracique latérale.", "isCorrect": false},
+        {"text": "L'artère brachiale profonde.", "isCorrect": true},
+        {"text": "Artère collatérale ulnaire proximale.", "isCorrect": true},
+        {"text": "Artère collatérale ulnaire distale.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "vas_q6",
+      "question": "6. Concernant l'artère radiale, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Naît dans le sillon bicipital latéral.", "isCorrect": false},
+        {"text": "Elle est profonde en haut située en arrière du muscle brachio-radial.", "isCorrect": true},
+        {"text": "S'anastomose avec le rameau palmaire superficiel pour donner l'arcade palmaire superficielle.", "isCorrect": false},
+        {"text": "Son segment palmaire traverse le 2e espace intermétacarpien.", "isCorrect": false},
+        {"text": "Le rameau carpien dorsal latéral naît dans la tabatière anatomique.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "vas_q7",
+      "question": "7. La gouttière du pouls radial est limitée par :",
+      "options": [
+        {"text": "En dedans le tendon du muscle fléchisseur ulnaire du carpe.", "isCorrect": false},
+        {"text": "En dehors le tendon du muscle long extenseur radial du carpe.", "isCorrect": false},
+        {"text": "En dedans le tendon du muscle fléchisseur radial du carpe.", "isCorrect": true},
+        {"text": "En dehors le tendon du muscle brachio-radial.", "isCorrect": true},
+        {"text": "En dedans le tendon du muscle fléchisseur superficiel des doigts.", "isCorrect": false}
+      ]
+    },
+    {
+      "id": "vas_q8",
+      "question": "8. Concernant l'artère ulnaire, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Dans son segment initial l'artère est oblique en bas et en dedans.", "isCorrect": true},
+        {"text": "Dans la loge de Guyon le nerf ulnaire est en dedans de l'artère.", "isCorrect": true},
+        {"text": "Elle donne l'artère interosseuse commune.", "isCorrect": true},
+        {"text": "Elle donne la collatérale ulnaire proximale.", "isCorrect": false},
+        {"text": "Elle traverse la tabatière anatomique.", "isCorrect": false}
+      ]
+    },
+    {
+      "id": "vas_q9",
+      "question": "9. Concernant les artères de la main, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "L'arcade palmaire superficielle est située en avant des tendons des muscles fléchisseurs des doigts et les muscles lombricaux.", "isCorrect": true},
+        {"text": "L'arcade palmaire profonde est plus bas située que l'arcade palmaire superficielle.", "isCorrect": false},
+        {"text": "L'arcade palmaire profonde donne les artères digitales palmaires.", "isCorrect": false},
+        {"text": "L'arcade dorsale du carpe est située à la face dorsale de la 1ère rangée du carpe.", "isCorrect": false},
+        {"text": "Les arcades, palmaire profonde et dorsale, s'anastomosent par les artères perforantes.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "vas_q10",
+      "question": "10. Les artères des doigts :",
+      "options": [
+        {"text": "Prennent naissance des arcades palmaires et de l'arcade dorsale du carpe.", "isCorrect": true},
+        {"text": "Chaque doigt possède 4 artères digitales.", "isCorrect": true},
+        {"text": "Chaque doigt possède 2 artères digitales.", "isCorrect": false},
+        {"text": "Les artères digitales palmaires propres vascularisent la 3e et la 2e phalange et la face palmaire de la 1e phalange.", "isCorrect": false},
+        {"text": "Les artères digitales dorsales vascularisent la face dorsale de la phalange proximale et distale.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "vas_q11",
+      "question": "11. Concernant les veines du membre thoracique, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Les veines profondes sont utilisées pour les prélèvements sanguins.", "isCorrect": false},
+        {"text": "La veine basilique brachiale se jette dans la veine axillaire.", "isCorrect": false},
+        {"text": "La veine latérale du pouce est appelée la céphalique du pouce.", "isCorrect": true},
+        {"text": "L'artère axillaire est accompagnée par deux veines.", "isCorrect": false},
+        {"text": "Les veines profondes présentent les mêmes rapports que les artères homologues.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "vas_q12",
+      "question": "12. Les deux troncs lymphatiques se jettent dans :",
+      "options": [
+        {"text": "Les veines axillaires droite et gauche.", "isCorrect": false},
+        {"text": "Les veines brachiales droite et gauche.", "isCorrect": false},
+        {"text": "La veine cave supérieure.", "isCorrect": false},
+        {"text": "La veine cave inférieure.", "isCorrect": false},
+        {"text": "Les angles veineux jugulo-subclaviers droit et gauche.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "vas_q13",
+      "question": "13. Concernant le plexus brachial, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Le tronc primaire supérieur naît de la réunion des branches ventrales de C5 et C6.", "isCorrect": true},
+        {"text": "Le tronc secondaire antéro-médial provient de la branche ventrale du tronc primaire inférieur.", "isCorrect": true},
+        {"text": "Le tronc secondaire postérieur se subdivise en nerf axillaire et musculo-cutané.", "isCorrect": false},
+        {"text": "Les deux racines du nerf médian se fusionnent en arrière de l'artère axillaire.", "isCorrect": false},
+        {"text": "Le nerf ulnaire naît du tronc secondaire antéro-interne.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "vas_q14",
+      "question": "14. Concernant le plexus brachial, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Le segment supérieur du plexus brachial est constitué par les racines et les troncs primaires du plexus.", "isCorrect": true},
+        {"text": "Le segment inférieur est situé au niveau du défilé costo-claviculaire.", "isCorrect": false},
+        {"text": "Les branches collatérales du plexus brachial sont purement motrices.", "isCorrect": true},
+        {"text": "Les branches collatérales du plexus brachial sont purement sensitives.", "isCorrect": false},
+        {"text": "Les branches collatérales du plexus brachial sont sensitivo-motrices.", "isCorrect": false}
+      ]
+    },
+    {
+      "id": "vas_q15",
+      "question": "15. Le nerf médian :",
+      "options": [
+        {"text": "Est formé par la réunion des racines médiale et latérale.", "isCorrect": true},
+        {"text": "Est un nerf purement moteur.", "isCorrect": false},
+        {"text": "Innervation motrice des muscles thénariens sauf l'adducteur du pouce.", "isCorrect": true},
+        {"text": "Ne donne pas de branches collatérales au bras.", "isCorrect": false},
+        {"text": "Traverse le canal carpien en position la plus superficielle.", "isCorrect": false}
+      ]
+    }
+  ]
+} 

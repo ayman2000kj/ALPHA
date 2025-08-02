@@ -1,0 +1,140 @@
+{
+  "exam_info": {
+    "title": "Myologie - Examen 2022-2023",
+    "year": "2022-2023"
+  },
+  "questions": [
+    {
+      "id": "myo_q1",
+      "question": "1. Concernant les généralités sur les muscles, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Le muscle cardiaque est un muscle lisse.", "isCorrect": false},
+        {"text": "Le tendon est la partie contractile du muscle.", "isCorrect": false},
+        {"text": "L'endomysium est un tissu conjonctif séparant les fibres musculaires.", "isCorrect": true},
+        {"text": "Le digastrique possède deux ventres avec un tendon intermédiaire.", "isCorrect": false},
+        {"text": "L'insertion du muscle peut être cartilagineuse.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "myo_q2",
+      "question": "2. Concernant les généralités sur les muscles, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "L'origine du muscle correspond à son insertion proximale.", "isCorrect": true},
+        {"text": "Les faisceaux musculaires du muscle bipenné se fixent sur les deux côtés du tendon.", "isCorrect": true},
+        {"text": "Le tonus est une contraction volontaire du muscle.", "isCorrect": false},
+        {"text": "Le septum intermusculaire sépare des groupes musculaires.", "isCorrect": false},
+        {"text": "Les muscles n'ont pas de vaisseaux lymphatiques.", "isCorrect": false}
+      ]
+    },
+    {
+      "id": "myo_q3",
+      "question": "3. Concernant les muscles de l'épaule, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Le muscle grand pectoral est abducteur du bras.", "isCorrect": false},
+        {"text": "Le muscle petit pectoral se termine sur le processus coracoïde.", "isCorrect": true},
+        {"text": "Le muscle grand dorsal est rotateur médial du bras.", "isCorrect": true},
+        {"text": "Le muscle infra-épineux est rotateur médial du bras.", "isCorrect": false},
+        {"text": "Le muscle deltoïde possède trois parties : claviculaire, acromiale et spinale.", "isCorrect": false}
+      ]
+    },
+    {
+      "id": "myo_q4",
+      "question": "4. Parmi les muscles suivants quels sont les muscles adducteurs du bras :",
+      "options": [
+        {"text": "Le grand pectoral.", "isCorrect": true},
+        {"text": "Le sub-clavier.", "isCorrect": false},
+        {"text": "Le dentelé antérieur.", "isCorrect": false},
+        {"text": "Le grand dorsal.", "isCorrect": true},
+        {"text": "Le supra-épineux.", "isCorrect": false}
+      ]
+    },
+    {
+      "id": "myo_q5",
+      "question": "5. Concernant la fosse axillaire, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "La paroi médiale de la fosse axillaire est formée par les 5 premières côtes et le muscle dentelé antérieur.", "isCorrect": true},
+        {"text": "Le muscle sub-clavier est dans le plan superficiel de la paroi antérieure de la fosse axillaire.", "isCorrect": false},
+        {"text": "La base de la fosse axillaire est formée par l'aponévrose axillaire.", "isCorrect": true},
+        {"text": "La paroi latérale de la fosse axillaire est formée par le muscle triceps.", "isCorrect": false},
+        {"text": "La fosse axillaire est de forme cubique.", "isCorrect": false}
+      ]
+    },
+    {
+      "id": "myo_q6",
+      "question": "6. Le muscle biceps :",
+      "options": [
+        {"text": "Prend son origine sur les tubercules supra et infra-glénoïdale.", "isCorrect": false},
+        {"text": "Son tendon terminal émet un prolongement latéral.", "isCorrect": false},
+        {"text": "Le tendon du chef long est intra-capsulaire extra-synovial.", "isCorrect": true},
+        {"text": "Il est fléchisseur du coude et supinateur.", "isCorrect": true},
+        {"text": "Il est innervé par le nerf musculo-cutané.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "myo_q7",
+      "question": "7. Concernant les muscles du bras, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Le muscle coraco-brachial est fléchisseur de l'épaule.", "isCorrect": true},
+        {"text": "Le muscle brachial se termine sur la tubérosité radiale.", "isCorrect": false},
+        {"text": "Le tendon du long triceps passe devant le petit rond et derrière le grand rond.", "isCorrect": true},
+        {"text": "Le chef médial du triceps provient de la face dorsale de l'humérus au-dessus du sillon du nerf radial.", "isCorrect": false},
+        {"text": "Tous les muscles du bras sont innervés par le nerf musculo-cutané.", "isCorrect": false}
+      ]
+    },
+    {
+      "id": "myo_q8",
+      "question": "8. Concernant les muscles de l'avant-bras, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Le rond pronateur se termine sur l'ulna.", "isCorrect": false},
+        {"text": "Le fléchisseur radial du carpe fait partie des muscles épicondyliens médiaux.", "isCorrect": true},
+        {"text": "Le tendon terminal du long palmaire traverse le canal carpien.", "isCorrect": false},
+        {"text": "Le fléchisseur profond des doigts se termine sur la phalange distale des 4 derniers doigts.", "isCorrect": true},
+        {"text": "Le muscle carré pronateur est innervé par le nerf ulnaire.", "isCorrect": false}
+      ]
+    },
+    {
+      "id": "myo_q9",
+      "question": "9. Concernant les muscles de l'avant-bras, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "La loge latérale contient les muscles supinateurs et extenseurs radiaux du carpe.", "isCorrect": true},
+        {"text": "L'extenseur ulnaire du carpe est dans le plan profond de la loge postérieure.", "isCorrect": false},
+        {"text": "Tous les muscles de la loge postérieure sont innervés par le nerf radial.", "isCorrect": true},
+        {"text": "La tabatière anatomique est limitée latéralement par les tendons du court extenseur et long abducteur du pouce.", "isCorrect": true},
+        {"text": "Le court abducteur du pouce est situé dans la loge antérieure de l'avant-bras.", "isCorrect": false}
+      ]
+    },
+    {
+      "id": "myo_q10",
+      "question": "10. Parmi les muscles suivants quels sont les muscles de la loge postérieure de l'avant-bras :",
+      "options": [
+        {"text": "Le muscle long extenseur radial du carpe.", "isCorrect": false},
+        {"text": "Le muscle court extenseur radial du carpe.", "isCorrect": false},
+        {"text": "Le muscle extenseur ulnaire du carpe.", "isCorrect": true},
+        {"text": "Le muscle long extenseur du pouce.", "isCorrect": true},
+        {"text": "Le muscle court extenseur du pouce.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "myo_q11",
+      "question": "11. Concernant les muscles de la main, cocher la ou les propositions justes :",
+      "options": [
+        {"text": "Les muscles de la main se répartissent en 4 groupes.", "isCorrect": false},
+        {"text": "L'opposant du pouce est situé dans l'éminence hypothénar.", "isCorrect": false},
+        {"text": "Les muscles lombricaux sont annexés aux tendons du fléchisseur superficiel des doigts.", "isCorrect": false},
+        {"text": "Les muscles interosseux palmaires sont des adducteurs des doigts.", "isCorrect": true},
+        {"text": "Les muscles interosseux dorsaux sont fléchisseurs de la métacarpo-phalangienne et extenseurs des inter-phalangiennes proximale et distale.", "isCorrect": true}
+      ]
+    },
+    {
+      "id": "myo_q12",
+      "question": "12. Les muscles de l'éminence hypothénar sont :",
+      "options": [
+        {"text": "Court palmaire.", "isCorrect": true},
+        {"text": "Court fléchisseur du petit doigt.", "isCorrect": true},
+        {"text": "Court extenseur du petit doigt.", "isCorrect": false},
+        {"text": "Abducteur du petit doigt.", "isCorrect": true},
+        {"text": "Opposant du petit doigt.", "isCorrect": true}
+      ]
+    }
+  ]
+} 
