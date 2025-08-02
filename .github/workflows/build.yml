@@ -39,15 +39,25 @@ jobs:
     - name: Build APK
       run: flutter build apk --release
     
-    - name: Upload APK
+    - name: Upload APK as artifact
       uses: actions/upload-artifact@v4
       with:
         name: aymologypro-apk
         path: build/app/outputs/flutter-apk/app-release.apk
         retention-days: 30
+
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: v${{ github.run_number }}
+        release_name: Release v${{ github.run_number }}
+        draft: false
+        prerelease: false
     
     - name: Upload APK to Release
-      if: github.event_name == 'workflow_dispatch'
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -55,4 +65,4 @@ jobs:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: ./build/app/outputs/flutter-apk/app-release.apk
         asset_name: aymologypro_new.apk
-        asset_content_type: application/vnd.android.package-archive 
+        asset_content_type: application/vnd.android.package-archive
